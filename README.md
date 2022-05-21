@@ -1,12 +1,15 @@
-
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Apar Tyagi</h1>
 <h3 align="center">I am a full Stack Developer and Android Developer</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif"/>
+<(img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/0e/3f/b6/0e3fb6d0ad3f72c8b5f420a8e8bf7eb3.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apartyagi&label=Profile%20views&color=0e75b6&style=flat" alt="apartyagi" /> </p>
+
+- 🔭 I’m currently working on **Online Exam Portal For Students**
 
 - 🌱 I’m currently learning **Nodejs ,And Many other Skills**
 
-- 💬 Ask me about **Spring,Angular,React,SpringBoot,JAVA,C++,**
+- 💬 Ask me about **Spring,Angular,React,SpringBoot,JAVA,C++,MEAN,MERN**
 
 - 📫 How to reach me **itsapartyagi@mail.com**
 
@@ -19,6 +22,7 @@
 <a href="https://www.codechef.com/users/apartyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="apartyagi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/apar_tyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="apar_tyagi" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/apar_tyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="apar_tyagi" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/apar_tyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="apar_tyagi" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@apartyagi10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@apartyagi10" height="30" width="40" /></a>
 </p>
 
@@ -28,3 +32,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apartyagi&show_icons=true&locale=en&layout=compact" alt="apartyagi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apartyagi&show_icons=true&locale=en" alt="apartyagi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apartyagi&" alt="apartyagi" /></p>
