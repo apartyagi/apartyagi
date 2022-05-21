@@ -1,7 +1,7 @@
 [![MasterHead](https://www.nicepng.com/png/detail/247-2476773_you-can-also-watch-some-special-moments-here.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Apar Tyagi</h1>
 <h3 align="center">I am a full Stack Developer and Android Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/0e/3f/b6/0e3fb6d0ad3f72c8b5f420a8e8bf7eb3.gif">
+<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/0e/3f/b6/0e3fb6d0ad3f72c8b5f420a8e8bf7eb3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apartyagi&label=Profile%20views&color=0e75b6&style=flat" alt="apartyagi" /> </p>
 
