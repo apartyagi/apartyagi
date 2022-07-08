@@ -1,4 +1,4 @@
-[![MasterHead](https://www.pngitem.com/pimgs/m/124-1246068_mahadev-png-calligraphy-transparent-png.png)](https://apartyagi.blogspot.com)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1SSL1Z2QjKSAyD6kPTCicEYcVleJhx5eIig&usqp=CAU)](https://apartyagi.blogspot.com)
 <h1 align="center">Hi 👋, I'm Apar Tyagi</h1>
 <h3 align="center">I am a full Stack Developer and Android Developer</h3>
 <div style="float: right">
