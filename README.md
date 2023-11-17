@@ -11,10 +11,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apartyagi&label=Profile%20views&color=0e75b6&style=flat" alt="apartyagi" /> </p>
 
 - 🔭 I’m currently working on **AI Project**
-
-- 🌱 I’m currently learning **AI,ML**
   
 - 🌱 I’m know **Nodejs,Flutter,React,Java,SpringBoot,And Many other Skills**
+  
+- 📑 I’m currently learning **AI,ML**
 
 - 💬 Ask me about **React,Flutter,MEAN,MERN,SpringBoot,JAVA,C++,DEVOPS**
 
@@ -26,7 +26,7 @@
 
 ###
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 
 ###
 
