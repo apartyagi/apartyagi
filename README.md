@@ -16,7 +16,7 @@
   
 - 🌱 I’m know **Nodejs,Flutter,React,Java,SpringBoot,And Many other Skills**
 
-- 💬 Ask me about **Spring,React,Flutter,SpringBoot,JAVA,C++,MEAN,MERN,DEVOPS**
+- 💬 Ask me about **React,Flutter,MEAN,MERN,SpringBoot,JAVA,C++,DEVOPS**
 
 - 📫 How to reach me **itsapartyagi@mail.com**
 
