@@ -1,4 +1,5 @@
 [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1SSL1Z2QjKSAyD6kPTCicEYcVleJhx5eIig&usqp=CAU)](https://apartyagi.blogspot.com)
+
 <h1 align="center">Hi 👋, I'm Apar Tyagi</h1>
 <h3 align="center">I am a full Stack Developer and Android Developer</h3>
 <div style="float: right">
@@ -31,7 +32,6 @@
 <a href="https://www.leetcode.com/apar_tyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="apar_tyagi" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@apartyagi10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@apartyagi10" height="30" width="40" /></a>
 </p>
-
 <h2 align="left">I code with</h2>
 
 ###
@@ -166,10 +166,6 @@
 
 ###
 
-<h2 align="left">Learning AI.....</h2>
-
-###
-
 <div align="left">
 </div>
 
@@ -177,8 +173,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=apartyagi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apartyagi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=apartyagi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apartyagi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=apartyagi&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
