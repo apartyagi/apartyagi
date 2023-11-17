@@ -1,7 +1,7 @@
 [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1SSL1Z2QjKSAyD6kPTCicEYcVleJhx5eIig&usqp=CAU)](https://apartyagi.blogspot.com)
 
 <h1 align="center">Hi 👋, I'm Apar Tyagi</h1>
-<h3 align="center">I am a full Stack Developer and Android Developer</h3>
+<h3 align="center">I am a full Stack Developer </h3>
 <div style="float: right">
   <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/0e/3f/b6/0e3fb6d0ad3f72c8b5f420a8e8bf7eb3.gif">
 </div>
@@ -10,11 +10,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apartyagi&label=Profile%20views&color=0e75b6&style=flat" alt="apartyagi" /> </p>
 
-- 🔭 I’m currently working on **Online Exam Portal For Students**
+- 🔭 I’m currently working on **AI Project**
 
-- 🌱 I’m currently learning **Nodejs ,And Many other Skills**
+- 🌱 I’m currently learning **AI,ML**
+  
+- 🌱 I’m know **Nodejs,Flutter,React,Java,SpringBoot,And Many other Skills**
 
-- 💬 Ask me about **Spring,Angular,React,SpringBoot,JAVA,C++,MEAN,MERN**
+- 💬 Ask me about **Spring,React,Flutter,SpringBoot,JAVA,C++,MEAN,MERN,DEVOPS**
 
 - 📫 How to reach me **itsapartyagi@mail.com**
 
