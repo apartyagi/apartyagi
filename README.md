@@ -1,6 +1,5 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1SSL1Z2QjKSAyD6kPTCicEYcVleJhx5eIig&usqp=CAU)](https://apartyagi.blogspot.com)
 <a href="https://apartyagi.blogspot.com" target="_blank">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1SSL1Z2QjKSAyD6kPTCicEYcVleJhx5eIig&usqp=CAU" alt="MasterHead" style="width: 100%;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1SSL1Z2QjKSAyD6kPTCicEYcVleJhx5eIig&usqp=CAU" alt="MasterHead" style="width: 100%;height:50px">
 </a>
 
 
