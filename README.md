@@ -1,4 +1,8 @@
 [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1SSL1Z2QjKSAyD6kPTCicEYcVleJhx5eIig&usqp=CAU)](https://apartyagi.blogspot.com)
+<a href="https://apartyagi.blogspot.com" target="_blank">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1SSL1Z2QjKSAyD6kPTCicEYcVleJhx5eIig&usqp=CAU" alt="MasterHead" style="width: 100%;">
+</a>
+
 
 <h1 align="center">Hi 👋, I'm Apar Tyagi</h1>
 <h3 align="center">I am a full Stack Developer </h3>
