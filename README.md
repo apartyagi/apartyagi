@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **itsapartyagi@mail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sC6rOATXsOeAhfIGxUmYikQIMIhwDxQY/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1vz7xTu59i38Fm3KNlyVSnY8K80XCIZt3/view?usp=sharing)
 
 - ⚡ Fun fact **I Can Do Anything In Programming World**
 
